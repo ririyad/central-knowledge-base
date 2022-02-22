@@ -27,4 +27,4 @@ For each topic, there will be a separate README file and each topic will have a 
     - <topic_name2.md>
     - ....
 
-Initially, I will use [onsidian-git](https://github.com/denolehov/obsidian-git)
+Initially, I will use [onsidian-git](https://github.com/denolehov/obsidian-git) to sync between devices.
