@@ -1,6 +1,6 @@
 # Central Knowledge Base
 
-I have been thinking about creating a personal knowledge management system for a long time. I have used various software like Remnote, Notion, Obsidian, TiddlyWiki etc. Currently, I am using Notion to bookmark the websites I am going to read later and Remnote to organize my knowledge. While Notion is awesome piece of software to collect and organize files, it feels too much flexiblle for me. 
+I have been thinking about creating a personal knowledge management system for a long time. I have used various software like Remnote, Notion, Obsidian, TiddlyWiki etc. Currently, I am using Notion to bookmark the websites I am going to read later and Remnote to organize my knowledge. While Notion is awesome piece of software to collect and organize files, it feels too much flexible for me. 
 
 Remnote is perfect for study app, it has lot of features but one drawback at least for me: no way to write down something without bullet point and based on the model it follows, it's actually not feasible.
 
