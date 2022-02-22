@@ -12,3 +12,8 @@ I will use Obsidian with git functionaliy or Google Drive/Dropbox functionality,
 
 A drwaback however using Obsidian is that I can' termux make work in my androind phone, which means I have no easy way to read my notes from my mobile without using Obsidian Sync
 option which is not an option for me, at least right now.
+
+
+## Update 01
+
+I will start using Obsidian as my personal knowledge management system from **22-02-2022** and will be continued till **30-05-2022**
