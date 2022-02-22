@@ -17,3 +17,14 @@ option which is not an option for me, at least right now.
 ## Update 01
 
 I will start using Obsidian as my personal knowledge management system from **22-02-2022** and will be continued till **30-05-2022**
+
+## Structure
+
+For each topic, there will be a separate README file and each topic will have a _parent section_. 
+
+- section_name
+    - <topic_name1.md>
+    - <topic_name2.md>
+    - ....
+
+Initially, I will use [onsidian-git](https://github.com/denolehov/obsidian-git)
