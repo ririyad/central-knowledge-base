@@ -27,4 +27,12 @@ For each topic, there will be a separate README file and each topic will have a 
     - <topic_name2.md>
     - ....
 
-Initially, I will use [onsidian-git](https://github.com/denolehov/obsidian-git) to sync between devices.
+<del>Initially, I will use [onsidian-git](https://github.com/denolehov/obsidian-git) to sync between devices.</del>
+
+It seems that I am facing git related error while using the above plugin in Windows environment. While it may take while to inspect the issue, I will use Obsidian with git for now. And to make things more long lasting, I will put the _vault_ folder at a cloud drive (google drive/dropbox/pcloud) in addition to **Cryptomator**. To sum up:
+
+- Obsidian: as my central knowledge base as _second brain_
+- Git: for version control
+- Github: for hosting repository
+- Google Drive/Dropbox/pCloud for secondary cloud backup
+- Cryptomator to encrypt the content in cloud (although I still need to figure out how to work with this with minimal effort)
