@@ -39,6 +39,6 @@ It seems that I am facing git related error while using the above plugin in Wind
 - **Cryptomator** to encrypt the content in cloud (although I still need to figure out how to work with this with minimal effort)
 
 ### Update 02
----
+
 
 As I am initially planning to store information for learning purpose for now I won't need to use **Cryptomator**
